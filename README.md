@@ -1,16 +1,31 @@
-# Getting Started with GitHub Copilot
+# skills-getting-started-with-github-copilot
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 🚀 Project Overview
+This repository contains the source code and documentation for **skills-getting-started-with-github-copilot**, developed by [rishiiicreates](https://github.com/rishiiicreates).
 
-Hey @rishiiicreates!
+## 🛠 Tech Stack
+- Built with a passion for clean code and efficiency.
+- Designed for scalability and performance.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## 📖 Getting Started
 
-Remember, it's self-paced so feel free to take a break! ☕️
+### Prerequisites
+Ensure you have the necessary environment installed before proceeding.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/rishiiicreates/skills-getting-started-with-github-copilot/issues/1)
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/rishiiicreates/skills-getting-started-with-github-copilot.git
 
----
+# Navigate to the directory
+cd skills-getting-started-with-github-copilot
+```
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 💻 Usage
+Detailed instructions on how to run this project can be found in the technical documentation or the code comments.
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+## 📜 License
+This project is licensed under the MIT License.
